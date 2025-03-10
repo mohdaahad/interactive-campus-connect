@@ -113,4 +113,9 @@
   .button-hover {
     @apply transition-all duration-300 hover:bg-opacity-90 active:scale-95;
   }
+  
+  /* Add additional dark mode specific styles */
+  .dark .card-hover {
+    @apply hover:bg-gray-800 hover:shadow-lg hover:shadow-primary/10;
+  }
 }
