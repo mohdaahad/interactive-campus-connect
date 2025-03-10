@@ -34,7 +34,9 @@ import {
   FileCheck, 
   ClipboardCheck,
   Clock,
-  ArrowRight
+  ArrowRight,
+  Mail,
+  Phone
 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import Navbar from '@/components/Navbar';
