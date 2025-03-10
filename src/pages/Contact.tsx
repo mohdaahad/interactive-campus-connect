@@ -38,7 +38,8 @@ import {
   Twitter,
   Instagram,
   Linkedin,
-  Youtube
+  Youtube,
+  ArrowRight
 } from "lucide-react";
 import { useToast } from '@/hooks/use-toast';
 import Navbar from '@/components/Navbar';

@@ -13,7 +13,8 @@ import {
   Calendar, 
   MapPin,
   ArrowRight,
-  ChevronRight
+  ChevronRight,
+  CheckCircle2
 } from "lucide-react";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
